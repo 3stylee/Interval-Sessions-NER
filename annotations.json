@@ -1,0 +1,6566 @@
+[
+	[
+		"30s on 45s float x 20 mins",
+		{
+			"entities": [
+				[0, 6, "EFFORT"],
+				[7, 16, "RECOVERY"],
+				[17, 26, "REPETITION"]
+			]
+		}
+	],
+	[
+		"4 x 1k off 90s",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 300 off 2",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 2 mins (1 min) + 8 x B2B",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[11, 18, "RECOVERY"],
+				[21, 24, "REPETITION"],
+				[25, 28, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4 x 3 mins (1 min) 1 min (2 mins)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[11, 18, "RECOVERY"],
+				[19, 24, "EFFORT"],
+				[25, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m last 4 because my watch messed up",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1200, (5mins), 2800, (10mins), 1200 + 200",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 13, "RECOVERY"],
+				[15, 19, "EFFORT"],
+				[21, 29, "RECOVERY"],
+				[31, 41, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6 x 800",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10 x 400 every 2 mins",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3 min",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 800",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"]
+			]
+		}
+	],
+	[
+		"14 x 200m every 2 min",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1000m every 5",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[10, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1k every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"500,400,300,300,400,500, 100 every 4 min",
+		{
+			"entities": [
+				[0, 28, "EFFORT"],
+				[29, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"7 x 600m every 4",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 400m every 4",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 400m every 10 mins, 58s, 59s, 61s",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 400m every 14 mins, 56s, 56s, 60s",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"500, 400, 300, 300, 400, 500",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[15, 18, "EFFORT"],
+				[20, 23, "EFFORT"],
+				[25, 28, "EFFORT"]
+			]
+		}
+	],
+	[
+		"16 x 200m",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"]
+			]
+		}
+	],
+	[
+		"8 x 300m",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5 x 1k every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 4 3 3 4 5 off 3mins",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 400 m every 4mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[10, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 300m, 4 x 250m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[10, 13, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 500m every 6 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 1200m every 15 mins + 200m",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[10, 23, "RECOVERY"],
+				[26, 30, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5 x 300m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 800m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 300m every 9 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 500m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 600m every 5mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5min tempo, 4mins, 10 hills every 2mins, 4mins, 5min tempo",
+		{
+			"entities": [
+				[0, 10, "EFFORT"],
+				[12, 17, "EFFORT"],
+				[19, 21, "REPETITION"],
+				[22, 27, "EFFORT"],
+				[28, 39, "RECOVERY"],
+				[41, 46, "RECOVERY"],
+				[48, 58, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1200, 2400, 1200 + 5 x 200m",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 16, "EFFORT"],
+				[19, 22, "REPETITION"],
+				[23, 27, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4 x 700m every 5 mins + 3 x 200m every minute",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 32, "EFFORT"],
+				[33, 45, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 400m every 2mins + 2 x 200m every minute",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 21, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 32, "EFFORT"],
+				[33, 45, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 700m hills every 4",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 14, "EFFORT"],
+				[15, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 500m, 3x400m, 4x300m,3x200m",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 16, "EFFORT"],
+				[18, 20, "REPETITION"],
+				[20, 24, "EFFORT"],
+				[25, 27, "REPETITION"],
+				[27, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3 mins.",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 600m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 400m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 800m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 700m every 5, 3 x 200m every min (2:02 - 1:55)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"],
+				[18, 21, "REPETITION"],
+				[22, 26, "EFFORT"],
+				[27, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 12 Hills every 2, 5 min tempo",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 15, "REPETITION"],
+				[16, 21, "EFFORT"],
+				[22, 29, "RECOVERY"],
+				[31, 42, "EFFORT"]
+			]
+		}
+	],
+	[
+		"8 x 500m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 600m every 5mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 500m every 3, 3 x 400m every 2, 4 x 300m every 2 and 3 x 200m every minute",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"],
+				[18, 21, "REPETITION"],
+				[22, 26, "EFFORT"],
+				[27, 34, "RECOVERY"],
+				[36, 39, "REPETITION"],
+				[40, 44, "EFFORT"],
+				[45, 52, "RECOVERY"],
+				[57, 60, "REPETITION"],
+				[61, 65, "EFFORT"],
+				[66, 78, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 700m hill loop every 4 mins (2:21 - 2:13)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 13, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1.1k every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 400m every 3 mins (around 64's)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 600m every 5 mins (1:45 - 1:39)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 8 x 400m every 2mins, 2 x 200m every minute",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 33, "RECOVERY"],
+				[35, 38, "REPETITION"],
+				[39, 43, "EFFORT"],
+				[44, 56, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"14 x 200m every 2mins (31-27)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1.1k every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 600m, 2 x 200m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[10, 13, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 12 hills every 2 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 15, "REPETITION"],
+				[16, 21, "EFFORT"],
+				[22, 34, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"600, 500, 400, 300, 200",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[15, 18, "EFFORT"],
+				[20, 23, "EFFORT"]
+			]
+		}
+	],
+	[
+		"20 x 200m every 2 mins @35s pace",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 800m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x long loop every 10 mins + hills",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 13, "EFFORT"],
+				[14, 27, "RECOVERY"],
+				[30, 35, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3 x 400m every 15 mins + 200m",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 22, "RECOVERY"],
+				[25, 29, "EFFORT"]
+			]
+		}
+	],
+	[
+		"12 x 200m every 2mins (28-29s)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 400m every 6, 2 x 200 every 3",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"],
+				[18, 21, "REPETITION"],
+				[22, 25, "EFFORT"],
+				[26, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 6 x 400m every 2mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 300m every 6 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 800m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 700m every 5 mins (1.58-57) + 3 x 200m every min",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"],
+				[34, 37, "REPETITION"],
+				[38, 42, "EFFORT"],
+				[43, 52, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"500, 300 off 3 mins x 2 with 15mins between",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "EFFORT"],
+				[9, 19, "RECOVERY"],
+				[20, 23, "REPETITION"],
+				[29, 43, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 600m every 5 mins (1.46-1.42)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 200m every 2 mins (29-27s)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 1.1k every 7 mins + 3 hills every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"],
+				[24, 25, "REPETITION"],
+				[26, 31, "EFFORT"],
+				[32, 44, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6, 2, 2 twice every 4 - 10 mins between",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 13, "REPETITION"],
+				[14, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 300 every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 600m every 5",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 200m every 2 mins",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 200m every 2",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 500m every 6",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 700m, 3 x 300m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[10, 13, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 mins controlled, 12 x 200m every 2 mins",
+		{
+			"entities": [
+				[0, 6, "EFFORT"],
+				[19, 23, "REPETITION"],
+				[24, 28, "EFFORT"],
+				[29, 41, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 500m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 mins, 8 x 150m every 3",
+		{
+			"entities": [
+				[0, 6, "EFFORT"],
+				[8, 11, "REPETITION"],
+				[12, 16, "EFFORT"],
+				[17, 24, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 600m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 mins, 10 x 200m every 3. All controlled",
+		{
+			"entities": [
+				[0, 6, "EFFORT"],
+				[8, 12, "REPETITION"],
+				[13, 17, "EFFORT"],
+				[18, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"800, 500, 400, 300 slightly faster than mile pace",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[15, 18, "EFFORT"]
+			]
+		}
+	],
+	[
+		"12 x 400m every 2 mins",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 1200m every 6 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[10, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1200, 2400, 1200 + 5 x 200 every min",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 16, "EFFORT"],
+				[19, 22, "REPETITION"],
+				[23, 26, "EFFORT"],
+				[27, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 600m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 200m every 2 mins",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 4 mins on, 1 min off + 4 x 200m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 13, "EFFORT"],
+				[15, 24, "RECOVERY"],
+				[27, 30, "REPETITION"],
+				[31, 35, "EFFORT"],
+				[36, 48, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 1200 every 6 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 600m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 800m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 300m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1200, 2400, 1200 + 5 x 200m every min",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 16, "EFFORT"],
+				[19, 22, "REPETITION"],
+				[23, 27, "EFFORT"],
+				[28, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 500m every 4 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 600m, 2 x 200m every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[10, 13, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 mins, 12 x 150m every 3 mins",
+		{
+			"entities": [
+				[0, 6, "EFFORT"],
+				[8, 12, "REPETITION"],
+				[13, 17, "EFFORT"],
+				[18, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 400m every 15 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 8 x 400 every 3.5 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 20, "EFFORT"],
+				[21, 35, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4,2,2 - 15 mins - 2,2,4 (every 90s, every 60s)",
+		{
+			"entities": [
+				[0, 5, "EFFORT"],
+				[8, 15, "RECOVERY"],
+				[18, 23, "EFFORT"],
+				[25, 34, "RECOVERY"],
+				[36, 45, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x (200m on, 200m off warm up strides) + 300,200,100,300 every 6 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 12, "EFFORT"],
+				[14, 22, "RECOVERY"],
+				[42, 57, "EFFORT"],
+				[58, 70, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 200m every 90s",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 3 x 500m every 5 mins, 8 minute break, 5 x 300m every 3 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 34, "RECOVERY"],
+				[36, 50, "RECOVERY"],
+				[52, 55, "REPETITION"],
+				[56, 60, "EFFORT"],
+				[61, 73, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 400m every 3 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 6 x 600m + 1 x 200m every 4 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[24, 27, "REPETITION"],
+				[28, 32, "EFFORT"],
+				[33, 45, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"(2 x 200 on, 200 off WU) + 3 x 800m every 15 mins",
+		{
+			"entities": [
+				[1, 4, "REPETITION"],
+				[5, 11, "EFFORT"],
+				[13, 20, "RECOVERY"],
+				[27, 30, "REPETITION"],
+				[31, 35, "EFFORT"],
+				[36, 49, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1k, 600m, 400m every 8 then every 5",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 8, "EFFORT"],
+				[10, 14, "EFFORT"],
+				[15, 22, "RECOVERY"],
+				[28, 35, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"(2 x 200 on, off WU), 4 x 400m every 6 mins",
+		{
+			"entities": [
+				[1, 4, "REPETITION"],
+				[5, 11, "EFFORT"],
+				[13, 16, "RECOVERY"],
+				[22, 25, "REPETITION"],
+				[26, 30, "EFFORT"],
+				[31, 43, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 13 x 300m every 2 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 17, "REPETITION"],
+				[18, 22, "EFFORT"],
+				[23, 35, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 200m on, off, 3 x 1600m every 8 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 11, "EFFORT"],
+				[13, 16, "RECOVERY"],
+				[18, 21, "REPETITION"],
+				[22, 27, "EFFORT"],
+				[28, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 200m on, off WU, 18 x 200m every 90s",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 11, "EFFORT"],
+				[13, 16, "RECOVERY"],
+				[21, 25, "REPETITION"],
+				[26, 30, "EFFORT"],
+				[31, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo WU, 8 x 400m every 3 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[16, 19, "REPETITION"],
+				[20, 24, "EFFORT"],
+				[25, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x (500m, 300m) every 5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[11, 15, "EFFORT"],
+				[17, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 6 x 200m every 5 mins",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 34, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1k, 600, 400",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 7, "EFFORT"],
+				[9, 12, "EFFORT"]
+			]
+		}
+	],
+	[
+		"500, 400, 300, 200, 100m every 5, 4, 3, 2 mins",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[15, 18, "EFFORT"],
+				[20, 24, "EFFORT"],
+				[25, 46, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"(300,100) - (250,150) - (200,200) every 90, 70, 60s. 15 mins between",
+		{
+			"entities": [
+				[1, 8, "EFFORT"],
+				[13, 20, "EFFORT"],
+				[25, 32, "EFFORT"],
+				[34, 52, "RECOVERY"],
+				[53, 68, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 tempo, 8 x 150 every 3 mins",
+		{
+			"entities": [
+				[0, 7, "EFFORT"],
+				[9, 12, "REPETITION"],
+				[13, 16, "EFFORT"],
+				[17, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"600, 400, 200 x 4. Every 3, 2, 1",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[14, 18, "REPETITION"],
+				[19, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 min tempo, 6 x 100m hills",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 27, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10 x 300m every 2.5 mins",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 24, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 1k (3mins)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 4 x 400, (1 min) ~3 mins between sets",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "REPETITION"],
+				[8, 11, "EFFORT"],
+				[13, 20, "RECOVERY"],
+				[21, 41, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 50m",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1 x 500m (5 mins), 4 x 150m (250 jog)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 17, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 27, "EFFORT"],
+				[28, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 4T, 1F",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[8, 10, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x (2 x 300 (2 mins)) 4 mins between sets",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 8, "REPETITION"],
+				[9, 12, "EFFORT"],
+				[13, 21, "RECOVERY"],
+				[23, 42, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 1 mile repeats with 3 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[24, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 300m sprints with 1 minute rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[23, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 1500m with 4 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[15, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20 x 100m with 30 seconds rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[15, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1200m with 90 seconds rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[15, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 600m with 90 seconds rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[15, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 800m with 2 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[14, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 2 mile tempo with 5 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 16, "EFFORT"],
+				[22, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"15 x 400m with 1 minute rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[15, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 1k with 2 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[12, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 2k with 3 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[12, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 300m with 45 seconds rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[15, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"7 x 1200m with 2.5 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[15, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 200m hill sprints with 90 seconds rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 22, "EFFORT"],
+				[28, 43, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1600m with 2 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[15, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 2k with 4 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[12, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 1000m with 2 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[15, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 3 mile repeats with 5 minutes rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 18, "EFFORT"],
+				[24, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 500m with 1 minute rest, followed by 4 x 300m with 30 seconds rest",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[14, 27, "RECOVERY"],
+				[41, 44, "REPETITION"],
+				[45, 49, "EFFORT"],
+				[55, 70, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 150m sprints with 30 seconds rest",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 17, "EFFORT"],
+				[23, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 100m Max Effort (30s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1 Mile Race Pace (5m rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[21, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 800m Easy Pace (4m rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[19, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 400m Tempo Pace (2m rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[20, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 200m Fast Pace (1m rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[19, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 200m Tempo Pace (1m rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 400m Hill Repeats (Full Recovery Jog Down)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 21, "EFFORT"],
+				[22, 46, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 100m Strides (1 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[17, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 800m Easy Pace (3 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 400m Tempo Pace (2 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 200m Hard Effort (45s rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[21, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 1200m Threshold Pace (4 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[25, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"15 x 100m Drills (30s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[17, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"7 x 600m Race Pace (3 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"400m Intervals (200m fast, 200m jog) x 5",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[16, 25, "EFFORT"],
+				[27, 35, "RECOVERY"],
+				[37, 40, "REPETITION"]
+			]
+		}
+	],
+	[
+		"8 x 400m Cruise Pace (1:30 rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[21, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 150m Strides (45s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[18, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 1 Mile Tempo Pace (5 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[22, 34, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20 x 200m Hard (30s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[15, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 800m Tempo Pace (4 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[20, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 100m Drills (Walk back recovery)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[17, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 1200m Race Pace (4 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[20, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"800m Intervals (400m fast, 400m jog) x 4",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[16, 25, "EFFORT"],
+				[27, 35, "RECOVERY"],
+				[37, 40, "REPETITION"]
+			]
+		}
+	],
+	[
+		"10 x 200m Tempo Pace (1 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"15 x 100m Strides (Walk back recovery)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[18, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 1500m Tempo Pace (5 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"25 x 200m Hard (20s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[15, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 400m Cruise Pace (2 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 150m Strides (1 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[18, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 600m Race Pace (3:30 rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[19, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"100m Intervals (50m fast, 50m jog) x 10",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[16, 24, "EFFORT"],
+				[26, 33, "RECOVERY"],
+				[35, 39, "REPETITION"]
+			]
+		}
+	],
+	[
+		"15 x 150m Strides (30s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[18, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 2000m Threshold Pace (5 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[25, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"30 x 100m Drills (20s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[17, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 800m Race Pace (4 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[19, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"400m Intervals (200m easy, 200m fast) x 6",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[16, 25, "RECOVERY"],
+				[27, 36, "EFFORT"],
+				[38, 41, "REPETITION"]
+			]
+		}
+	],
+	[
+		"12 x 300m Tempo Pace (1 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"15 x 200m Strides (Walk back recovery)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[18, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 3000m Tempo Pace (6 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"35 x 100m Drills (Walk back recovery)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[17, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 1200m Race Pace (5 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 10, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"800m Intervals (400m moderate, 400m jog) x 5",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[16, 29, "EFFORT"],
+				[31, 39, "RECOVERY"],
+				[41, 44, "REPETITION"]
+			]
+		}
+	],
+	[
+		"14 x 200m Tempo Pace (45s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20 x 150m Strides (Walk back recovery)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[18, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 2 Mile Tempo Pace (6 min rest)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[22, 34, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"40 x 100m Drills (15s rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[17, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 1600m Race Pace (5 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 10, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1km Intervals (500m fast, 500m jog) x 6",
+		{
+			"entities": [
+				[0, 13, "EFFORT"],
+				[15, 24, "EFFORT"],
+				[26, 34, "RECOVERY"],
+				[36, 39, "REPETITION"]
+			]
+		}
+	],
+	[
+		"16 x 200m Tempo Pace (1 min rest)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[21, 33, "RECOVERY"]
+			]
+		}
+	],
+
+	[
+		"8x5mins (off1min)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 7, "EFFORT"],
+				[8, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8x400 (2mins) + 2x250 prog",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 13, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3x3x300 every 2.5/8mins rec between sets",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 17, "RECOVERY"],
+				[18, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 800, 200/400, 3 x 300/200/200/100, 100/400",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[9, 16, "RECOVERY"],
+				[18, 21, "REPETITION"],
+				[22, 25, "EFFORT"],
+				[26, 29, "EFFORT"],
+				[30, 33, "EFFORT"],
+				[34, 37, "EFFORT"],
+				[39, 46, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x (4 x lap [1’]) {5’}",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 8, "REPETITION"],
+				[9, 12, "EFFORT"],
+				[13, 17, "RECOVERY"],
+				[19, 23, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12,8,6,4, 8,6,4, 6,3 x 400 all off 200 jog",
+		{
+			"entities": [
+				[0, 22, "REPETITION"],
+				[23, 26, "EFFORT"],
+				[31, 42, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"800 2x600 3x300",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[6, 9, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 15, "EFFORT"]
+			]
+		}
+	],
+	[
+		"800m [3’] 2x 600m [3’] [5’] 3x 300m [3’] 2:26 1:39/1:37 42.9/42.0/41.7 Banked another good session on tired legs ",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[10, 12, "REPETITION"],
+				[13, 17, "EFFORT"],
+				[18, 22, "RECOVERY"],
+				[23, 27, "RECOVERY"],
+				[28, 30, "REPETITION"],
+				[31, 35, "EFFORT"],
+				[36, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"800 (3) 2×600 (3)(5) 3×300m (3) 2:20, 1:38, 1:35, 42, 46, 45s Final 2 reps were solely about survival 💀",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[4, 7, "RECOVERY"],
+				[8, 10, "REPETITION"],
+				[10, 13, "EFFORT"],
+				[14, 17, "RECOVERY"],
+				[17, 20, "RECOVERY"],
+				[21, 23, "REPETITION"],
+				[23, 28, "EFFORT"],
+				[28, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 1k, 2 x 800, 600, 2 x 300 exam stress has finally turned up, completely mentally checked out of that session",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[8, 11, "REPETITION"],
+				[12, 15, "EFFORT"],
+				[17, 20, "EFFORT"],
+				[22, 25, "REPETITION"],
+				[26, 29, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1k (2'), 2x800 (90\"), 600 (3'), 2x300 Progressing from 5k pace -> 800 pace, felt very smooth on the ks, happy to run my fastest 300 rep in about 5 years at the end",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 16, "EFFORT"],
+				[17, 22, "RECOVERY"],
+				[24, 27, "EFFORT"],
+				[28, 32, "RECOVERY"],
+				[34, 36, "REPETITION"],
+				[36, 39, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Feeling good Not 36 second 400 good but still 800 (3') 2x600 (3')(5') 3x300",
+		{
+			"entities": [
+				[46, 49, "EFFORT"],
+				[50, 54, "RECOVERY"],
+				[55, 57, "REPETITION"],
+				[57, 60, "EFFORT"],
+				[61, 65, "RECOVERY"],
+				[65, 69, "RECOVERY"],
+				[70, 72, "REPETITION"],
+				[72, 75, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2*1k (2), 2*800 (90), 600 & 2*300(3) Squeezed in one stride before the session, no drills.",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 8, "RECOVERY"],
+				[10, 12, "REPETITION"],
+				[12, 15, "EFFORT"],
+				[16, 20, "RECOVERY"],
+				[22, 25, "EFFORT"],
+				[28, 30, "REPETITION"],
+				[30, 33, "EFFORT"],
+				[33, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x1k 2x8 6 2x3 2:47 2:47 2:12 2:11 93 42 41",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 7, "REPETITION"],
+				[7, 8, "EFFORT"],
+				[9, 10, "EFFORT"],
+				[11, 13, "REPETITION"],
+				[13, 14, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Melloy causing carnage can’t read a session 800, 2x600, 3x300",
+		{
+			"entities": [
+				[44, 47, "EFFORT"],
+				[49, 51, "REPETITION"],
+				[51, 54, "EFFORT"],
+				[56, 58, "REPETITION"],
+				[58, 61, "EFFORT"]
+			]
+		}
+	],
+	[
+		"600,5x300,600 1:29,45->42,1.27",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[6, 9, "EFFORT"],
+				[10, 13, "EFFORT"]
+			]
+		}
+	],
+	[
+		"800 (4) 2 x 600 (3) (5) 3 x 300 (3) 2.18, 1.37, 1.36, 43, 41, 43 Solo and extremely windy",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[4, 7, "RECOVERY"],
+				[8, 11, "REPETITION"],
+				[12, 15, "EFFORT"],
+				[16, 19, "RECOVERY"],
+				[20, 23, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 31, "EFFORT"],
+				[32, 35, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"ankle okay, everything else not 1k, 2 x 800, then 2 mins, 2 x 1 min on bike",
+		{
+			"entities": [
+				[32, 34, "EFFORT"],
+				[36, 39, "REPETITION"],
+				[40, 43, "EFFORT"],
+				[50, 56, "EFFORT"],
+				[58, 61, "REPETITION"],
+				[62, 67, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6x800 off 2 ~70s supposed to be comfy, it was not",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Evening Run 5 x 500m (90)",
+		{
+			"entities": [
+				[12, 15, "REPETITION"],
+				[16, 20, "EFFORT"],
+				[21, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 1k, 6 x 200 Death after an ambitious first rep",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[8, 11, "REPETITION"],
+				[12, 15, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1k, 2k, 3k Feeling very meh. Hayfever nae been good.",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 6, "EFFORT"],
+				[8, 10, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3 sets of 5x300m [Every 2.5min; 8min] Very windy",
+		{
+			"entities": [
+				[0, 9, "REPETITION"],
+				[10, 12, "REPETITION"],
+				[12, 16, "EFFORT"],
+				[17, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 5 x 300m",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "REPETITION"],
+				[8, 12, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Half day freedom 🙌🏼 16*400 (45) - atleast it was only the first 15reps that were tragic🫠",
+		{
+			"entities": [
+				[22, 25, "REPETITION"],
+				[25, 28, "EFFORT"],
+				[29, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"70 on/off Probably the worst first 3 reps of a session ever, that’s what I get for running 10 minutes after waking up.",
+		{
+			"entities": [
+				[0, 5, "EFFORT"],
+				[6, 9, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5s & 3s x6",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[5, 7, "EFFORT"],
+				[8, 10, "REPETITION"]
+			]
+		}
+	],
+	[
+		"Track 400*4 off 3’ 150*6 fast -> next phase of training begins…",
+		{
+			"entities": [
+				[6, 9, "EFFORT"],
+				[9, 11, "REPETITION"],
+				[12, 18, "RECOVERY"],
+				[19, 22, "EFFORT"],
+				[22, 24, "REPETITION"]
+			]
+		}
+	],
+	[
+		"2x 800m [2’] [3’] 2x 400m [1’] [5’] 6x 200m [1’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[13, 17, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[21, 25, "EFFORT"],
+				[26, 30, "RECOVERY"],
+				[31, 35, "RECOVERY"],
+				[36, 38, "REPETITION"],
+				[39, 43, "EFFORT"],
+				[44, 48, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800 (2’) [3’] 3x300 (100j)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 10, "RECOVERY"],
+				[11, 15, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[22, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5.6*800(2) (5) 2.7*300(3)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[7, 10, "RECOVERY"],
+				[11, 14, "RECOVERY"],
+				[15, 19, "REPETITION"],
+				[19, 22, "EFFORT"],
+				[22, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800 (2), 3x300 (3)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 9, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 16, "EFFORT"],
+				[17, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800m (2) 3x300 (3) good to be back",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 10, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 16, "EFFORT"],
+				[17, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1,600 (3') 1,200 (3') 1,000 (2') 800 (2') 600 (5') 2 x 400 (1')",
+		{
+			"entities": [
+				[0, 5, "EFFORT"],
+				[6, 10, "RECOVERY"],
+				[11, 16, "EFFORT"],
+				[17, 21, "RECOVERY"],
+				[22, 27, "EFFORT"],
+				[28, 32, "RECOVERY"],
+				[33, 36, "EFFORT"],
+				[37, 41, "RECOVERY"],
+				[42, 45, "EFFORT"],
+				[46, 50, "RECOVERY"],
+				[51, 54, "REPETITION"],
+				[55, 58, "EFFORT"],
+				[59, 63, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1.2k [3’] 1k [2’] 800m [2’] 600m [5’] 2x 300m [2’]",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 10, "RECOVERY"],
+				[10, 12, "EFFORT"],
+				[13, 17, "RECOVERY"],
+				[18, 22, "EFFORT"],
+				[23, 27, "RECOVERY"],
+				[28, 32, "EFFORT"],
+				[33, 37, "RECOVERY"],
+				[38, 41, "REPETITION"],
+				[41, 45, "EFFORT"],
+				[46, 50, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600, 1200, 1000, 800, 600, 2x400",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 16, "EFFORT"],
+				[18, 21, "EFFORT"],
+				[23, 26, "EFFORT"],
+				[28, 30, "REPETITION"],
+				[30, 33, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2k T, 1600, 1200, 1000, 800, 600",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 16, "EFFORT"],
+				[18, 22, "EFFORT"],
+				[24, 27, "EFFORT"],
+				[29, 32, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1600, 1200, 1k, 800, 600, 2x400",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 14, "EFFORT"],
+				[16, 19, "EFFORT"],
+				[21, 24, "EFFORT"],
+				[26, 28, "REPETITION"],
+				[28, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1600 (3) 1200 (3) 1k (2) 800 (2) 600",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 8, "RECOVERY"],
+				[9, 13, "EFFORT"],
+				[14, 17, "RECOVERY"],
+				[18, 20, "EFFORT"],
+				[21, 24, "RECOVERY"],
+				[25, 28, "EFFORT"],
+				[29, 32, "RECOVERY"],
+				[33, 36, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1200 (3 min off), 1k (2), 800 (2), 600 (5), 2 x 300 (2)",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 16, "RECOVERY"],
+				[18, 20, "EFFORT"],
+				[21, 24, "RECOVERY"],
+				[26, 29, "EFFORT"],
+				[30, 33, "RECOVERY"],
+				[35, 38, "EFFORT"],
+				[39, 42, "RECOVERY"],
+				[44, 47, "REPETITION"],
+				[48, 51, "EFFORT"],
+				[52, 55, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Course à pied le soir 1200,1000,800,600 & 2 fast 300s",
+		{
+			"entities": [
+				[22, 26, "EFFORT"],
+				[27, 31, "EFFORT"],
+				[32, 35, "EFFORT"],
+				[36, 39, "EFFORT"],
+				[42, 48, "REPETITION"],
+				[49, 52, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1200,1000,800,600 2 x 400",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 9, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[14, 17, "EFFORT"],
+				[18, 21, "REPETITION"],
+				[22, 25, "EFFORT"]
+			]
+		}
+	],
+	[
+		"14x400 (1)(5) 400",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 10, "RECOVERY"],
+				[10, 13, "RECOVERY"],
+				[14, 17, "EFFORT"]
+			]
+		}
+	],
+	[
+		"12x 400m (1’) 1x 400m (5’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[14, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 3' H (JDR)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x 3 minutes (jbr)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 12, "EFFORT"],
+				[13, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x hills",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 8, "EFFORT"]
+			]
+		}
+	],
+	[
+		"16 x 400 (30\") , (5') , 2 x 400 (90\")",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 14, "RECOVERY"],
+				[17, 21, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 31, "EFFORT"],
+				[32, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x 400m [45”] [5’] 4x 200m [1’]",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 14, "RECOVERY"],
+				[15, 19, "RECOVERY"],
+				[20, 22, "REPETITION"],
+				[23, 27, "EFFORT"],
+				[28, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"16 x 400 (30”), 2x400 (1’)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 14, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[22, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 400 (30”) @73.0 avg, 2 x 400 @61.9/63.5",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 14, "RECOVERY"],
+				[26, 29, "REPETITION"],
+				[30, 33, "EFFORT"]
+			]
+		}
+	],
+	[
+		"18 x 400 (30\") (5') 2 x 400 (60\")",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 14, "RECOVERY"],
+				[15, 19, "RECOVERY"],
+				[20, 23, "REPETITION"],
+				[24, 27, "EFFORT"],
+				[28, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600 1200 800 400 (3)",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 9, "EFFORT"],
+				[10, 13, "EFFORT"],
+				[14, 17, "EFFORT"],
+				[18, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"16x400 (30’) [5’] 2x400 (1’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 12, "RECOVERY"],
+				[13, 17, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[20, 23, "EFFORT"],
+				[24, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 400 (5k p) (30) 2x 400 (15p)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[16, 20, "RECOVERY"],
+				[21, 23, "REPETITION"],
+				[24, 27, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3 x (3 x 400m off 30s) 3 mins between sets + 1 x 400 30s rest is a crime",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "REPETITION"],
+				[9, 13, "EFFORT"],
+				[14, 21, "RECOVERY"],
+				[23, 42, "RECOVERY"],
+				[45, 48, "REPETITION"],
+				[49, 52, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2 x 800 (1') , 8 x 400 (30\")",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[15, 18, "REPETITION"],
+				[19, 22, "EFFORT"],
+				[23, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x 3x 400m [30” & 3’] [5’] 400m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 5, "REPETITION"],
+				[6, 10, "EFFORT"],
+				[11, 21, "RECOVERY"],
+				[22, 26, "RECOVERY"],
+				[27, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3x 800 (60”), 8x400 (30”), 2x800 (60”)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 12, "RECOVERY"],
+				[14, 16, "REPETITION"],
+				[16, 19, "EFFORT"],
+				[20, 25, "RECOVERY"],
+				[27, 29, "REPETITION"],
+				[29, 32, "EFFORT"],
+				[33, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x 800m (60), 8x 400m (30), 800m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[14, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 26, "RECOVERY"],
+				[28, 32, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2 x 800(1) 8 x 400 (30) 1 x 800",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[7, 10, "RECOVERY"],
+				[11, 14, "REPETITION"],
+				[15, 18, "EFFORT"],
+				[19, 23, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Course à pied le soir 3(3x400m) 30 sec rest",
+		{
+			"entities": [
+				[22, 24, "REPETITION"],
+				[24, 26, "REPETITION"],
+				[26, 30, "EFFORT"],
+				[32, 43, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4, 1, 3, 1, 2, 1 off 90s + 6 x 30s hills 3rd on segment leaderboard, shame I can’t run 60km/h like jennie",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[9, 10, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[15, 16, "EFFORT"],
+				[17, 24, "RECOVERY"],
+				[27, 30, "REPETITION"],
+				[31, 40, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4,1,3,1,2,1 [90”] / 6x 30” hills",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 17, "RECOVERY"],
+				[20, 22, "REPETITION"],
+				[23, 32, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5’ 1’ 4’ 1’ 3’ 1’ 2’ 1’ (90’) 6x30’ hills",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[3, 5, "EFFORT"],
+				[6, 8, "EFFORT"],
+				[9, 11, "EFFORT"],
+				[12, 14, "EFFORT"],
+				[15, 17, "EFFORT"],
+				[18, 20, "EFFORT"],
+				[21, 23, "EFFORT"],
+				[24, 29, "RECOVERY"],
+				[30, 32, "REPETITION"],
+				[32, 41, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5,1,4,1,3,1,2,1 (90), 6x 30s hills (jbr)",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 15, "EFFORT"],
+				[16, 20, "RECOVERY"],
+				[22, 24, "REPETITION"],
+				[25, 34, "EFFORT"],
+				[35, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5-1-4-1-3-1-2-1 + 4x30 sec hill",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 15, "EFFORT"],
+				[18, 20, "REPETITION"],
+				[20, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6 x 300 off 3 el classico legs 90% lactic after that",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 400 (30\")",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x 300m [3’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 12, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"18x400 (30) (5’) 400",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[12, 16, "RECOVERY"],
+				[17, 20, "EFFORT"]
+			]
+		}
+	],
+	[
+		"12*400(30)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[6, 10, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x 400m (30) 71 avg",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10T, 5 x 800 (90s)",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "REPETITION"],
+				[9, 12, "EFFORT"],
+				[13, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4, 3, 2, 3, 4 off 90s",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[9, 10, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3,2,3,4 [90”] / 6x hills",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 13, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[19, 24, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3-2-3-4 min @3.45 (90sec) - 5x200m Hills (Jog)",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[18, 25, "RECOVERY"],
+				[28, 30, "REPETITION"],
+				[30, 40, "EFFORT"],
+				[41, 46, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4’, 3’, 2’, 3’, 4’ (90”) + 6x Hills",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 6, "EFFORT"],
+				[8, 10, "EFFORT"],
+				[12, 14, "EFFORT"],
+				[16, 18, "EFFORT"],
+				[19, 24, "RECOVERY"],
+				[27, 29, "REPETITION"],
+				[30, 35, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6 x 3 mins (1 min)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[11, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 3' (1')",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 11, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x 3’ [1’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 5, "EFFORT"],
+				[6, 10, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 3' (60\" jog) XC sesh",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 long hills, 3 x 3 mins (90s), 6 med hills had to shelve the next%’s unfortunately",
+		{
+			"entities": [
+				[0, 1, "REPETITION"],
+				[2, 12, "EFFORT"],
+				[14, 17, "REPETITION"],
+				[18, 24, "EFFORT"],
+				[25, 30, "RECOVERY"],
+				[32, 33, "REPETITION"],
+				[34, 43, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5x L.Hills / 3x 3’ [90”] / 6x S.Hills",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 10, "EFFORT"],
+				[13, 15, "REPETITION"],
+				[16, 18, "EFFORT"],
+				[19, 24, "RECOVERY"],
+				[27, 29, "REPETITION"],
+				[30, 37, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6*Hill 5*3min(90) 6*Hill",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 9, "REPETITION"],
+				[9, 13, "EFFORT"],
+				[13, 17, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[20, 24, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6x long hill, 5x3’, 6x med hill",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 12, "EFFORT"],
+				[14, 16, "REPETITION"],
+				[16, 18, "RECOVERY"],
+				[20, 22, "REPETITION"],
+				[23, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6 x 45sec hill (4) 5 x 3mins (4) 6 x 45sec hill",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 14, "EFFORT"],
+				[15, 18, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 28, "EFFORT"],
+				[29, 32, "RECOVERY"],
+				[33, 36, "REPETITION"],
+				[37, 47, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4, 4, 3, 3, 2, 2 off 90s",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[9, 10, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[15, 16, "EFFORT"],
+				[17, 24, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4,3,3,2,2 [90’]",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"7(3)5(2)4(90)4(90)3(90)3(90)2(60)2",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[1, 4, "RECOVERY"],
+				[4, 5, "EFFORT"],
+				[5, 8, "RECOVERY"],
+				[8, 9, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[13, 14, "EFFORT"],
+				[14, 18, "RECOVERY"],
+				[18, 19, "EFFORT"],
+				[19, 23, "RECOVERY"],
+				[23, 24, "EFFORT"],
+				[24, 28, "RECOVERY"],
+				[28, 29, "EFFORT"],
+				[29, 33, "RECOVERY"],
+				[33, 34, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5 [3] 4,4 [2] 3,3 [90] 2,2 [1]",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 5, "RECOVERY"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 13, "RECOVERY"],
+				[14, 15, "EFFORT"],
+				[16, 17, "EFFORT"],
+				[18, 22, "RECOVERY"],
+				[23, 24, "EFFORT"],
+				[25, 26, "EFFORT"],
+				[27, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5’ 4’ 4’ 3’ 3’ 2’ 2’",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[3, 5, "EFFORT"],
+				[6, 8, "EFFORT"],
+				[9, 11, "EFFORT"],
+				[12, 14, "EFFORT"],
+				[15, 17, "EFFORT"],
+				[18, 20, "EFFORT"]
+			]
+		}
+	],
+	[
+		"15 mins of 45s on, 30s float",
+		{
+			"entities": [
+				[0, 10, "REPETITION"],
+				[11, 17, "EFFORT"],
+				[19, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"25' of 30\"/45\"",
+		{
+			"entities": [
+				[0, 6, "REPETITION"],
+				[7, 10, "EFFORT"],
+				[10, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20’ of 45” hard 30” float",
+		{
+			"entities": [
+				[0, 6, "REPETITION"],
+				[7, 15, "EFFORT"],
+				[16, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"45on/30off for 30mins",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 10, "RECOVERY"],
+				[11, 21, "REPETITION"]
+			]
+		}
+	],
+	[
+		"30min 45on/35off",
+		{
+			"entities": [
+				[0, 5, "REPETITION"],
+				[6, 10, "EFFORT"],
+				[11, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20 mins of 45 secs on, 30 secs float",
+		{
+			"entities": [
+				[0, 10, "REPETITION"],
+				[11, 21, "EFFORT"],
+				[23, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 5 min tempo (60s float)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 15, "EFFORT"],
+				[16, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x (2 x 300 (60s)), 10 mins between sets",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 8, "REPETITION"],
+				[9, 12, "EFFORT"],
+				[13, 18, "RECOVERY"],
+				[21, 41, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x2x300 (1 min/10mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3*300/300",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[5, 9, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x(2x300)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 5, "REPETITION"],
+				[5, 8, "EFFORT"]
+			]
+		}
+	],
+	[
+		"8x600",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4x3x200 (30\") (3')",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 13, "RECOVERY"],
+				[14, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 3 x 200m (30s), 3 mins between sets",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "REPETITION"],
+				[8, 12, "EFFORT"],
+				[13, 18, "RECOVERY"],
+				[20, 39, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 400 (1') , (5') , 4 x 200 (30\")",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[16, 20, "RECOVERY"],
+				[23, 26, "REPETITION"],
+				[27, 30, "EFFORT"],
+				[31, 36, "RECOVERY"]
+			]
+		}
+	],
+	["2.4km at 800 pace ouch", { "entities": [[0, 5, "EFFORT"]] }],
+	[
+		"4sets: 200 (30) 200 (30) 200 [3]",
+		{
+			"entities": [
+				[0, 5, "REPETITION"],
+				[7, 10, "EFFORT"],
+				[11, 15, "RECOVERY"],
+				[16, 19, "EFFORT"],
+				[20, 24, "RECOVERY"],
+				[25, 28, "EFFORT"],
+				[29, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10*400(1) 4*200(30)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[6, 9, "RECOVERY"],
+				[10, 12, "REPETITION"],
+				[12, 15, "EFFORT"],
+				[15, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10×400 [90'], 4×200 [30']",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 12, "RECOVERY"],
+				[14, 16, "REPETITION"],
+				[16, 19, "EFFORT"],
+				[20, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x400m off 60s + 4x200m. Firmly in the bin",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 15, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[20, 24, "EFFORT"]
+			]
+		}
+	],
+	[
+		"last rep merchant fitness back in time for season opener 200 (1), 300 (3), 400 (5), 300 (2), 200 27, 41, 54, 39, 26",
+		{
+			"entities": [
+				[57, 60, "EFFORT"],
+				[61, 64, "RECOVERY"],
+				[66, 69, "EFFORT"],
+				[70, 73, "RECOVERY"],
+				[75, 78, "EFFORT"],
+				[79, 82, "RECOVERY"],
+				[84, 87, "EFFORT"],
+				[88, 91, "RECOVERY"],
+				[93, 96, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2k, 3x1k, 2x600",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[6, 8, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 15, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Drills / 4x 200m strides [3’]",
+		{
+			"entities": [
+				[9, 11, "REPETITION"],
+				[12, 24, "EFFORT"],
+				[25, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x1k (3’) 3x600 (2’) (3’) 400",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[10, 12, "REPETITION"],
+				[12, 15, "EFFORT"],
+				[16, 20, "RECOVERY"],
+				[21, 25, "RECOVERY"],
+				[26, 29, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3, 3, 2, 2, 1, 1 (90s), 3 x upslopes",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[9, 10, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[15, 16, "EFFORT"],
+				[17, 22, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 36, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3’ / 3’ / 2’ / 2’ / 1’ / 1’ [90”]",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[5, 7, "EFFORT"],
+				[10, 12, "EFFORT"],
+				[15, 17, "EFFORT"],
+				[20, 22, "EFFORT"],
+				[25, 27, "EFFORT"],
+				[28, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4332211(90) 4x upslopes",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[1, 2, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[5, 6, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[15, 23, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5,4,4,3,3,2,2,1,1 (90s) (5min) 3x upslopes",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 15, "EFFORT"],
+				[16, 17, "EFFORT"],
+				[18, 23, "RECOVERY"],
+				[24, 30, "RECOVERY"],
+				[31, 33, "REPETITION"],
+				[34, 42, "EFFORT"]
+			]
+		}
+	],
+	[
+		"el classico 6 x 300 off 3 mins 40-41s",
+		{
+			"entities": [
+				[12, 15, "REPETITION"],
+				[16, 19, "EFFORT"],
+				[20, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 1,200 (100\") , 2 x 800 (90\") , (5') , 2 x 400 (2')",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[10, 16, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 26, "EFFORT"],
+				[27, 32, "RECOVERY"],
+				[35, 39, "RECOVERY"],
+				[42, 45, "REPETITION"],
+				[46, 49, "EFFORT"],
+				[50, 54, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 1200 (2’) 2 x 800 (90’’) 2 x 400 (2’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[14, 17, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[22, 28, "RECOVERY"],
+				[29, 32, "REPETITION"],
+				[33, 36, "EFFORT"],
+				[37, 41, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x 300m [3’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 8, "EFFORT"],
+				[8, 12, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"El Classico 6x300 (3’) @800",
+		{
+			"entities": [
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"],
+				[18, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600 3*1200 2*800 2*400",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 7, "REPETITION"],
+				[7, 11, "EFFORT"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"],
+				[18, 20, "REPETITION"],
+				[20, 23, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3x1200 (2min), 2x800 (90s) (5min), 2x400 (2min)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 13, "RECOVERY"],
+				[15, 17, "REPETITION"],
+				[17, 20, "EFFORT"],
+				[21, 26, "RECOVERY"],
+				[27, 33, "RECOVERY"],
+				[35, 37, "REPETITION"],
+				[37, 40, "EFFORT"],
+				[41, 47, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x1200 [2’], 2x800 [90”] (5’), 2x400 [2’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[13, 15, "REPETITION"],
+				[15, 18, "EFFORT"],
+				[19, 24, "RECOVERY"],
+				[25, 29, "RECOVERY"],
+				[31, 33, "REPETITION"],
+				[33, 36, "EFFORT"],
+				[37, 41, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 300 (100J)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 mins tempo // 10x300 [45”]",
+		{
+			"entities": [
+				[0, 13, "EFFORT"],
+				[17, 20, "REPETITION"],
+				[20, 23, "EFFORT"],
+				[24, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x 500 [3'] / 300 [7.5']",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[14, 17, "EFFORT"],
+				[18, 24, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10*300(100jog)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[6, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x 300m (100 jog in about 45 seconds)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x (2 x 300 (2 mins)) 4 mins between sets first lactic session in 8 months, took a few victims, cant complain",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 8, "REPETITION"],
+				[9, 12, "EFFORT"],
+				[13, 21, "RECOVERY"],
+				[23, 42, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x (4 x 400m (90s)) 5 mins between sets dropped a 62 to start the third set and then popped",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 8, "REPETITION"],
+				[9, 13, "EFFORT"],
+				[14, 19, "RECOVERY"],
+				[21, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 * (4*400)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 7, "REPETITION"],
+				[7, 10, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3x4x400 90secs/5mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 14, "RECOVERY"],
+				[15, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x4x400m (90s+5mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"WU. 5x(4x400m). CD",
+		{
+			"entities": [
+				[4, 6, "REPETITION"],
+				[7, 9, "REPETITION"],
+				[9, 13, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4, 3, 3, 2, 2 (90) + 6 x B2B",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[9, 10, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 18, "RECOVERY"],
+				[21, 24, "REPETITION"],
+				[25, 28, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Holywell 4,3,3,2,2 (90”) + 5x100 strides",
+		{
+			"entities": [
+				[9, 10, "EFFORT"],
+				[11, 12, "EFFORT"],
+				[13, 14, "EFFORT"],
+				[15, 16, "EFFORT"],
+				[17, 18, "EFFORT"],
+				[19, 24, "RECOVERY"],
+				[27, 29, "REPETITION"],
+				[29, 40, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4,4,3,3,2,2, 4x strides",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[13, 15, "REPETITION"],
+				[16, 23, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5 4 4 3 3 2 2 (90)",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4,4,3,3,2,2 [90\"], 6 × Strides",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 17, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 30, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4,4,3,3,2,2 mins off 90s",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[17, 24, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Hokas not cut out for 200s 2 x 800, 2 x 400, 6 x 200",
+		{
+			"entities": [
+				[27, 30, "REPETITION"],
+				[31, 34, "EFFORT"],
+				[36, 39, "REPETITION"],
+				[40, 43, "EFFORT"],
+				[45, 48, "REPETITION"],
+				[49, 52, "EFFORT"]
+			]
+		}
+	],
+	[
+		"[2x800 (2')] (3') [2x400 (60\")] (5') [6x200 (60\")]",
+		{
+			"entities": [
+				[1, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[13, 17, "RECOVERY"],
+				[19, 21, "REPETITION"],
+				[21, 24, "EFFORT"],
+				[25, 30, "RECOVERY"],
+				[32, 36, "RECOVERY"],
+				[38, 40, "REPETITION"],
+				[40, 43, "EFFORT"],
+				[44, 49, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 x 800 (2')",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 8, "EFFORT"],
+				[9, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800m + CD",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x 800m [2’] [3’] 2x 400m [1’] [5’] 4x 400m [1’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[13, 17, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[21, 25, "EFFORT"],
+				[26, 30, "RECOVERY"],
+				[31, 35, "RECOVERY"],
+				[36, 39, "REPETITION"],
+				[39, 43, "EFFORT"],
+				[44, 48, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8 x 800m (2’) (4’) 3 x 300m (1’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[14, 18, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 27, "EFFORT"],
+				[28, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6*800(2) 3*300(3)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[5, 8, "RECOVERY"],
+				[9, 11, "REPETITION"],
+				[11, 14, "EFFORT"],
+				[14, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800 (~2), 3x300 (3)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 10, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"],
+				[18, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6×800 [2'], 3×300 [3']",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 10, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"],
+				[18, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x400 r45 + 4x200",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 9, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6 x 800 [2'], [5'] 2 x 200 [30\"]",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[14, 18, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 26, "EFFORT"],
+				[27, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800m (2min) (5min) 3x300 (3min)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 13, "RECOVERY"],
+				[14, 20, "RECOVERY"],
+				[21, 23, "REPETITION"],
+				[23, 26, "EFFORT"],
+				[27, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x800m off 2’ [5’] 3x300m off 3’",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 13, "RECOVERY"],
+				[14, 18, "RECOVERY"],
+				[19, 21, "REPETITION"],
+				[21, 25, "EFFORT"],
+				[26, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12 x 30s hills (jog back)",
+		{
+			"entities": [
+				[0, 4, "REPETITION"],
+				[5, 14, "EFFORT"],
+				[15, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x30 sec hills jog down recovery ",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 15, "EFFORT"],
+				[16, 34, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 30” (5’) 2 x 45” (4’) 3 x 30” (3’) hills",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[13, 16, "REPETITION"],
+				[17, 20, "EFFORT"],
+				[21, 25, "RECOVERY"],
+				[26, 29, "REPETITION"],
+				[30, 33, "EFFORT"],
+				[34, 38, "RECOVERY"],
+				[39, 44, "EFFORT"]
+			]
+		}
+	],
+	[
+		"45 on 30 float x 15 mins dripping like a knackered fridge",
+		{
+			"entities": [
+				[0, 5, "EFFORT"],
+				[6, 14, "RECOVERY"],
+				[15, 23, "REPETITION"]
+			]
+		}
+	],
+	[
+		"3 x (1000, 200 float, 300) off 3 mins abysmal shape",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[11, 20, "RECOVERY"],
+				[22, 25, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4x(1000(200 float) 300) off 3 mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[7, 18, "RECOVERY"],
+				[19, 22, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4x (k, 200 float, 300) off 3'",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[4, 5, "EFFORT"],
+				[7, 16, "RECOVERY"],
+				[18, 21, "EFFORT"],
+				[23, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1200, 2 x 1k, 2 x 800 (3mins)",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 9, "REPETITION"],
+				[10, 12, "EFFORT"],
+				[14, 17, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[22, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2K , (2') , 2 x 1,600 (2') , 2 x 1,200 (2') , 2 x 800 (1')",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[12, 15, "REPETITION"],
+				[16, 21, "EFFORT"],
+				[22, 26, "RECOVERY"],
+				[29, 32, "REPETITION"],
+				[33, 38, "EFFORT"],
+				[39, 43, "RECOVERY"],
+				[46, 49, "REPETITION"],
+				[50, 53, "EFFORT"],
+				[54, 58, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 1600 2 x 1200 all off 2’",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 12, "REPETITION"],
+				[13, 17, "EFFORT"],
+				[22, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1x1.2k / 2x1k / 2x800m [3’]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[9, 11, "REPETITION"],
+				[11, 13, "EFFORT"],
+				[16, 18, "REPETITION"],
+				[18, 22, "EFFORT"],
+				[23, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 1600m / 2 x 1200m / 1 x 800m (2’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[12, 15, "REPETITION"],
+				[16, 21, "EFFORT"],
+				[24, 27, "REPETITION"],
+				[28, 32, "EFFORT"],
+				[33, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2k 2*1600 2*1200 800 (2)",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[3, 5, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 16, "EFFORT"],
+				[17, 20, "EFFORT"],
+				[21, 24, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x 1600m, 2x 1200m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 8, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[13, 18, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1600 (2), 2x1200 (2), 2x800 (1)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 10, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 22, "RECOVERY"],
+				[24, 26, "REPETITION"],
+				[26, 29, "EFFORT"],
+				[30, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2×1600, 2×1200, 1×800",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 14, "EFFORT"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2k, 1600, 1600, 1200, 1200",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 8, "EFFORT"],
+				[10, 14, "EFFORT"],
+				[16, 20, "EFFORT"],
+				[22, 26, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2000, 2 x 1600, 2 x 1200",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 9, "REPETITION"],
+				[10, 14, "EFFORT"],
+				[15, 19, "REPETITION"],
+				[20, 24, "EFFORT"]
+			]
+		}
+	],
+	[
+		"1600x2 (2), 1200x2 (2), 800",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[7, 10, "RECOVERY"],
+				[12, 16, "EFFORT"],
+				[16, 18, "REPETITION"],
+				[19, 22, "RECOVERY"],
+				[24, 27, "EFFORT"]
+			]
+		}
+	],
+	[
+		"mbappe got this whole country on ropes 10 mins hills 2 x 4 mins 5 mins hills",
+		{
+			"entities": [
+				[39, 52, "EFFORT"],
+				[53, 56, "REPETITION"],
+				[57, 63, "EFFORT"],
+				[64, 76, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10' hills (3') 2x4' (2) (3) 5' hills",
+		{
+			"entities": [
+				[0, 9, "EFFORT"],
+				[10, 14, "RECOVERY"],
+				[15, 17, "REPETITION"],
+				[17, 19, "EFFORT"],
+				[20, 23, "RECOVERY"],
+				[24, 27, "RECOVERY"],
+				[28, 36, "EFFORT"]
+			]
+		}
+	],
+	[
+		"7’ hills / 2x 4’ [2’] / 5’ hills",
+		{
+			"entities": [
+				[0, 8, "EFFORT"],
+				[11, 13, "REPETITION"],
+				[14, 16, "EFFORT"],
+				[17, 21, "RECOVERY"],
+				[24, 32, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5min Tempo 8min Hills 2*6mins 5min Hills",
+		{
+			"entities": [
+				[0, 10, "EFFORT"],
+				[11, 21, "EFFORT"],
+				[22, 24, "REPETITION"],
+				[24, 29, "EFFORT"],
+				[30, 40, "EFFORT"]
+			]
+		}
+	],
+	[
+		"7 min hills, 2 x 6 min, 7 min hills (2 min recovery)",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[13, 16, "REPETITION"],
+				[17, 22, "EFFORT"],
+				[24, 35, "EFFORT"],
+				[36, 52, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5', 10' hills, 2 x 6'",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 13, "EFFORT"],
+				[15, 18, "REPETITION"],
+				[19, 21, "EFFORT"]
+			]
+		}
+	],
+	[
+		"nice to feel some lactic for the first time since bedford 4 x 600, 400, 200 every 3,2,1 (5 mins) 1 x 400",
+		{
+			"entities": [
+				[58, 61, "REPETITION"],
+				[62, 65, "EFFORT"],
+				[67, 70, "EFFORT"],
+				[72, 75, "EFFORT"],
+				[82, 83, "EFFORT"],
+				[84, 85, "EFFORT"],
+				[86, 87, "EFFORT"],
+				[88, 96, "RECOVERY"],
+				[97, 100, "REPETITION"],
+				[101, 104, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5 * (6, 4, 2) & 400",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[5, 6, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[11, 12, "EFFORT"],
+				[16, 19, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6*(600, 400, 200), 400",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[8, 11, "EFFORT"],
+				[13, 16, "EFFORT"],
+				[19, 22, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x200 (200); 4x500, 400, 200 every 3,2,1; (5mins) 1x400",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[13, 15, "REPETITION"],
+				[15, 18, "EFFORT"],
+				[20, 23, "EFFORT"],
+				[25, 28, "EFFORT"],
+				[29, 40, "RECOVERY"],
+				[42, 49, "RECOVERY"],
+				[50, 52, "REPETITION"],
+				[52, 55, "EFFORT"]
+			]
+		}
+	],
+	[
+		"45 on, 30 float x 20 mins",
+		{
+			"entities": [
+				[0, 5, "EFFORT"],
+				[7, 15, "RECOVERY"],
+				[16, 25, "REPETITION"]
+			]
+		}
+	],
+	[
+		"25' of 30\" / 45\"",
+		{
+			"entities": [
+				[0, 6, "REPETITION"],
+				[7, 10, "EFFORT"],
+				[13, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"25’ of 45’’ on/ 30’’ float",
+		{
+			"entities": [
+				[0, 6, "REPETITION"],
+				[7, 14, "EFFORT"],
+				[16, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"45” (5k) / 30” (float) for 15 mins",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[11, 21, "RECOVERY"],
+				[23, 34, "REPETITION"]
+			]
+		}
+	],
+	[
+		"45’’ on 30” off for 25 mins",
+		{
+			"entities": [
+				[0, 7, "EFFORT"],
+				[8, 15, "RECOVERY"],
+				[16, 27, "REPETITION"]
+			]
+		}
+	],
+	[
+		"25 mins (45s on 30s float)",
+		{
+			"entities": [
+				[0, 9, "REPETITION"],
+				[9, 15, "EFFORT"],
+				[16, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"25 minutes fartlek 45 seconds on 30 seconds float",
+		{
+			"entities": [
+				[0, 18, "REPETITION"],
+				[19, 32, "EFFORT"],
+				[33, 49, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"15 mins of 45 on 30 float",
+		{
+			"entities": [
+				[0, 10, "REPETITION"],
+				[11, 16, "EFFORT"],
+				[17, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5T, 4 x 2 mins (60), 5 hills",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 7, "REPETITION"],
+				[8, 14, "EFFORT"],
+				[15, 19, "RECOVERY"],
+				[21, 28, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10' T , (5') , 6 x 2' (1') , (4') , 10' H",
+		{
+			"entities": [
+				[0, 5, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[15, 18, "REPETITION"],
+				[19, 21, "EFFORT"],
+				[22, 26, "RECOVERY"],
+				[29, 33, "RECOVERY"],
+				[36, 41, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5T (5) 6x2 mins (1) 10 mins alternating hills",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[3, 6, "RECOVERY"],
+				[7, 9, "REPETITION"],
+				[9, 15, "EFFORT"],
+				[16, 19, "RECOVERY"],
+				[20, 45, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10min Tempo (5) 6*2min (1) 10min Hills",
+		{
+			"entities": [
+				[0, 11, "EFFORT"],
+				[12, 15, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 22, "EFFORT"],
+				[23, 26, "RECOVERY"],
+				[27, 38, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5x2mins (1’) (3’) 10 min of hills",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 7, "EFFORT"],
+				[8, 12, "RECOVERY"],
+				[13, 17, "RECOVERY"],
+				[18, 33, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5'T, 5×2'[1'], 10' Hills",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 7, "REPETITION"],
+				[7, 9, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[15, 24, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10', 5 x 2', 5' hills",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[5, 8, "REPETITION"],
+				[9, 11, "EFFORT"],
+				[13, 21, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Session - 10 mins tempo, 6x2 mins [1 min], 3xDouble hills",
+		{
+			"entities": [
+				[10, 23, "EFFORT"],
+				[25, 27, "REPETITION"],
+				[27, 33, "EFFORT"],
+				[34, 40, "RECOVERY"],
+				[43, 45, "REPETITION"],
+				[45, 57, "EFFORT"]
+			]
+		}
+	],
+	[
+		"ideal footwear for staying upright 4 x 30s hills + 4, 3, 3, 2, 2 (75s) + 6 x 30s (30s)",
+		{
+			"entities": [
+				[35, 38, "REPETITION"],
+				[39, 48, "EFFORT"],
+				[51, 52, "EFFORT"],
+				[54, 55, "EFFORT"],
+				[57, 58, "EFFORT"],
+				[60, 61, "EFFORT"],
+				[63, 64, "EFFORT"],
+				[65, 70, "RECOVERY"],
+				[73, 76, "REPETITION"],
+				[77, 80, "EFFORT"],
+				[81, 86, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x(4’, 3’, 2’) (75”)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 5, "EFFORT"],
+				[7, 9, "EFFORT"],
+				[11, 13, "EFFORT"],
+				[15, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12’ tempo [5’] 4’ 4’ 3’ 3’ 2’ 2’ [75”] [5’] 6x30” [30”]",
+		{
+			"entities": [
+				[0, 9, "EFFORT"],
+				[10, 14, "RECOVERY"],
+				[15, 17, "EFFORT"],
+				[18, 20, "EFFORT"],
+				[21, 23, "EFFORT"],
+				[24, 26, "EFFORT"],
+				[27, 29, "EFFORT"],
+				[30, 32, "EFFORT"],
+				[34, 38, "RECOVERY"],
+				[39, 43, "RECOVERY"],
+				[44, 46, "REPETITION"],
+				[46, 49, "EFFORT"],
+				[50, 55, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x hills (5’) 3’ 3’ 2’ 2’ (75”) (3’) 6 x 30” (30”)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[10, 14, "RECOVERY"],
+				[15, 17, "EFFORT"],
+				[18, 20, "EFFORT"],
+				[21, 23, "EFFORT"],
+				[24, 26, "EFFORT"],
+				[27, 32, "RECOVERY"],
+				[33, 37, "RECOVERY"],
+				[38, 41, "REPETITION"],
+				[42, 45, "EFFORT"],
+				[46, 51, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 3 mins (3 mins)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 10, "EFFORT"],
+				[11, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 5’ (1’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 11, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x4 (2) solid",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 3, "EFFORT"],
+				[4, 7, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x5 mins off 60 secs",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 8, "EFFORT"],
+				[9, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4*5min (1)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 10, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1 x 500m (5 mins), 4 x 150m (250 jog) ready for Watford diamond league 💎",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 16, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 27, "EFFORT"],
+				[28, 37, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1x500 (5') 6x150 (250 jog) all @ 800 pace",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 9, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 16, "EFFORT"],
+				[17, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 800 (90’) , 3 x 300 (1’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 13, "RECOVERY"],
+				[16, 19, "REPETITION"],
+				[20, 23, "EFFORT"],
+				[24, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x800m (90’’ and 5’) 3x300m (1’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 20, "RECOVERY"],
+				[21, 23, "REPETITION"],
+				[23, 27, "EFFORT"],
+				[28, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x800m [90”]",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 12, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x800 (90\"), (5'), 3x300 (1')",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[13, 17, "RECOVERY"],
+				[19, 21, "REPETITION"],
+				[21, 24, "EFFORT"],
+				[25, 29, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x800 (90”) (5”) 3x300 (60”)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[12, 16, "RECOVERY"],
+				[17, 19, "REPETITION"],
+				[19, 22, "EFFORT"],
+				[23, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 800 (90s)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5*800(90) + 4*300(1)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"],
+				[17, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"500 @8p, 6 x 150 (250j)",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[9, 12, "REPETITION"],
+				[13, 16, "EFFORT"],
+				[17, 23, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x800m off 90 (5 mins) 4x300 off 60ish",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 13, "RECOVERY"],
+				[14, 22, "RECOVERY"],
+				[23, 25, "REPETITION"],
+				[25, 28, "EFFORT"],
+				[29, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x800 (90”) (5’) 3x300 (1’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[12, 16, "RECOVERY"],
+				[17, 19, "REPETITION"],
+				[19, 22, "EFFORT"],
+				[23, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"WU > 4x 800m > CD",
+		{
+			"entities": [
+				[5, 7, "REPETITION"],
+				[8, 12, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6x800 (90s) (5min) 3x300 (60s)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[12, 18, "RECOVERY"],
+				[19, 21, "REPETITION"],
+				[21, 24, "EFFORT"],
+				[25, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"LSAC Track: 4x800m (~85\") // 4x300m (~55\")",
+		{
+			"entities": [
+				[12, 14, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 25, "RECOVERY"],
+				[29, 31, "REPETITION"],
+				[31, 35, "EFFORT"],
+				[36, 42, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x 800, 4 x 300",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[9, 12, "REPETITION"],
+				[13, 16, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5x800 (90’) [5’] 3x300 (60’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[12, 16, "RECOVERY"],
+				[17, 19, "REPETITION"],
+				[19, 22, "EFFORT"],
+				[23, 28, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Should be illegal to do this session in June 2 x 3', 3 x 2', 2 x 1' all off 90s",
+		{
+			"entities": [
+				[45, 48, "REPETITION"],
+				[49, 51, "EFFORT"],
+				[53, 56, "REPETITION"],
+				[57, 59, "EFFORT"],
+				[61, 64, "REPETITION"],
+				[65, 67, "EFFORT"],
+				[72, 79, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 3 2 2 2 1 1 1 mins (90)",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 15, "EFFORT"],
+				[21, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3,2,2,2,1,1,1 (90s)",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"],
+				[14, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Holywell Session: 1 x 3’ / 3 x 2’ / 3 x 1’ (90” jog)",
+		{
+			"entities": [
+				[18, 21, "REPETITION"],
+				[22, 24, "EFFORT"],
+				[27, 30, "REPETITION"],
+				[31, 33, "EFFORT"],
+				[36, 39, "REPETITION"],
+				[40, 42, "EFFORT"],
+				[43, 52, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x3’ 3x2’ 3x1’ all off 90”",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 7, "REPETITION"],
+				[7, 9, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 14, "EFFORT"],
+				[19, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3’, 3x2’, 3x1’ all off 90s",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[6, 8, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 14, "EFFORT"],
+				[19, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 200m (3 mins) 24s, ready to scalp some sprinters tomorrow",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Lactic train 🚂 6 x 300 (3 mins) 40s avg in windy conditions",
+		{
+			"entities": [
+				[16, 19, "REPETITION"],
+				[20, 23, "EFFORT"],
+				[24, 32, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x300 (3’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 10, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 300 (3)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 11, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1 x 3 min, 2 x 2 min, 2 x 1 min FND ending my last rep win streak",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"],
+				[11, 14, "REPETITION"],
+				[15, 20, "EFFORT"],
+				[22, 25, "REPETITION"],
+				[26, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x3' (90\") 2x2' (90\") 2x1' (60\") (5') 6x30m B2B",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 10, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 15, "EFFORT"],
+				[16, 21, "RECOVERY"],
+				[22, 24, "REPETITION"],
+				[24, 26, "EFFORT"],
+				[27, 32, "RECOVERY"],
+				[33, 37, "RECOVERY"],
+				[38, 40, "REPETITION"],
+				[40, 47, "EFFORT"]
+			]
+		}
+	],
+	[
+		"Grass sesh: 4', 2x3', 2x2', 2x1' off 90\" jog",
+		{
+			"entities": [
+				[12, 14, "EFFORT"],
+				[16, 18, "REPETITION"],
+				[18, 20, "EFFORT"],
+				[22, 24, "REPETITION"],
+				[24, 26, "EFFORT"],
+				[28, 30, "REPETITION"],
+				[30, 32, "EFFORT"],
+				[33, 44, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x3’, 2x2’ (90’) 2x1’ (60’) then 6x30m back to backs",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[6, 8, "REPETITION"],
+				[8, 10, "EFFORT"],
+				[11, 16, "RECOVERY"],
+				[17, 19, "REPETITION"],
+				[19, 21, "EFFORT"],
+				[22, 27, "RECOVERY"],
+				[33, 35, "REPETITION"],
+				[35, 52, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3,3,2,2,1,1 (90), 6x 30m btb",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 16, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[21, 28, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x3 2x2 2x1 6x30m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 3, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[6, 7, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 11, "EFFORT"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4,3,3,2,2 off 90s, 1,1 off 60s",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 17, "RECOVERY"],
+				[19, 20, "EFFORT"],
+				[21, 22, "EFFORT"],
+				[23, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"YTP session with the Loughborough lads 2x3mins (90) 2x2mins (90) 2x1mins (60)",
+		{
+			"entities": [
+				[39, 41, "REPETITION"],
+				[41, 46, "EFFORT"],
+				[47, 51, "RECOVERY"],
+				[52, 54, "REPETITION"],
+				[54, 59, "EFFORT"],
+				[60, 64, "RECOVERY"],
+				[65, 67, "REPETITION"],
+				[67, 72, "EFFORT"],
+				[73, 77, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4,3,3,2,2,1,1",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[2, 3, "EFFORT"],
+				[4, 5, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[8, 9, "EFFORT"],
+				[10, 11, "EFFORT"],
+				[12, 13, "EFFORT"]
+			]
+		}
+	],
+	[
+		"YTP training - 2x3mins (90) 2x2mins (90) 2x1mins (60)",
+		{
+			"entities": [
+				[15, 17, "REPETITION"],
+				[17, 22, "EFFORT"],
+				[23, 27, "RECOVERY"],
+				[28, 30, "REPETITION"],
+				[30, 35, "EFFORT"],
+				[36, 40, "RECOVERY"],
+				[41, 43, "REPETITION"],
+				[43, 48, "EFFORT"],
+				[49, 53, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 400 (15 pace), 2 x 400 (8 pace), 1 x 400 flat out happy to get a new 400 PB",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[19, 22, "REPETITION"],
+				[23, 26, "EFFORT"],
+				[37, 40, "REPETITION"],
+				[41, 44, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2 x 16 (3'45\") , 2 x 12 (2'45\") , 2 x 8 (1'50\")",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 6, "EFFORT"],
+				[7, 14, "RECOVERY"],
+				[17, 20, "REPETITION"],
+				[21, 23, "EFFORT"],
+				[24, 31, "RECOVERY"],
+				[34, 37, "REPETITION"],
+				[38, 39, "EFFORT"],
+				[40, 47, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x400 (1’ and 5’) 1x400 (8’) 1x400 (600m) First 800 session",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 17, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[20, 23, "EFFORT"],
+				[24, 28, "RECOVERY"],
+				[29, 31, "REPETITION"],
+				[31, 34, "EFFORT"],
+				[35, 41, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x400 [1’ & 5’] 2x400 [3’ & 5’] 1x400",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 15, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[22, 31, "RECOVERY"],
+				[32, 34, "REPETITION"],
+				[34, 37, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1600 (4'), 2x1200 (3'), 2x800 (2')",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[13, 15, "REPETITION"],
+				[15, 19, "EFFORT"],
+				[20, 24, "RECOVERY"],
+				[26, 28, "REPETITION"],
+				[28, 31, "EFFORT"],
+				[32, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x400(1) 5 mins 2x400(3) 5 mins 1x400",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[5, 8, "RECOVERY"],
+				[9, 15, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[21, 24, "RECOVERY"],
+				[25, 31, "RECOVERY"],
+				[32, 34, "REPETITION"],
+				[34, 37, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1600 (4’) 2x1200 (3’) 2x800 (2’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 23, "RECOVERY"],
+				[24, 26, "REPETITION"],
+				[26, 29, "EFFORT"],
+				[30, 34, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x1600, 1200, 800",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[8, 12, "EFFORT"],
+				[14, 17, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4x400 (60s), 2x400 (3min), 1x400 (5min betweens sets)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[13, 15, "REPETITION"],
+				[15, 18, "EFFORT"],
+				[19, 25, "RECOVERY"],
+				[27, 29, "REPETITION"],
+				[29, 32, "EFFORT"],
+				[33, 53, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x 1600m (4’) 2x 1200 (3’) 2x 800 (2’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 8, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[14, 16, "REPETITION"],
+				[17, 21, "EFFORT"],
+				[22, 26, "RECOVERY"],
+				[27, 29, "REPETITION"],
+				[30, 33, "EFFORT"],
+				[34, 38, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x400@15p (1’), [5’], 2x400@8p (3’), [5’] 400@6p",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[10, 14, "RECOVERY"],
+				[16, 20, "RECOVERY"],
+				[22, 24, "REPETITION"],
+				[24, 27, "EFFORT"],
+				[31, 35, "RECOVERY"],
+				[37, 41, "RECOVERY"],
+				[42, 45, "EFFORT"]
+			]
+		}
+	],
+	[
+		"4 x 400 (4 mins) Lactic so bad my eyeballs hurt",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8x400 (1) 😎",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 9, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x400 (4')",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 10, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x1200, 2x800, 2x400",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 13, "EFFORT"],
+				[15, 17, "REPETITION"],
+				[17, 20, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1200 (2’) 3x800 (90”)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 17, "EFFORT"],
+				[18, 23, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600 (3'), 2x1200 (2'), 2x800 (90'')",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 17, "EFFORT"],
+				[18, 22, "RECOVERY"],
+				[24, 26, "REPETITION"],
+				[26, 29, "EFFORT"],
+				[30, 36, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600, 1200, 1200, 800, 400, 400",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[6, 10, "EFFORT"],
+				[12, 16, "EFFORT"],
+				[18, 21, "EFFORT"],
+				[23, 26, "EFFORT"],
+				[28, 31, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3x400m @8p (4’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[11, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3 x 400 @800 pace (4)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[18, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600 (3’)1200,1200 (2’)800",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 9, "RECOVERY"],
+				[9, 13, "EFFORT"],
+				[14, 18, "EFFORT"],
+				[19, 23, "RECOVERY"],
+				[23, 26, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1600 (3’) 2x1000 (2’) 400m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 11, "RECOVERY"],
+				[12, 14, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[19, 23, "RECOVERY"],
+				[24, 28, "EFFORT"]
+			]
+		}
+	],
+	[
+		"2x1200 (2mins), 2x800 (90s), 2x400 (2mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 14, "RECOVERY"],
+				[16, 18, "REPETITION"],
+				[18, 21, "EFFORT"],
+				[22, 27, "RECOVERY"],
+				[29, 31, "REPETITION"],
+				[31, 34, "EFFORT"],
+				[35, 42, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"1600 (3min), 2x1200 (2min), 3x800 (90s)",
+		{
+			"entities": [
+				[0, 4, "EFFORT"],
+				[5, 11, "RECOVERY"],
+				[13, 15, "REPETITION"],
+				[15, 19, "EFFORT"],
+				[20, 26, "RECOVERY"],
+				[28, 30, "REPETITION"],
+				[30, 33, "EFFORT"],
+				[34, 39, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x400m off 4 mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5 x Mile (2’) 3 x 300’ (100’ jog)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 13, "RECOVERY"],
+				[14, 17, "REPETITION"],
+				[18, 22, "EFFORT"],
+				[23, 33, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 400 (1) (5) 6 x 200 (1)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[8, 11, "RECOVERY"],
+				[12, 15, "RECOVERY"],
+				[16, 19, "REPETITION"],
+				[20, 23, "EFFORT"],
+				[24, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4xmile (2min), (5min), 4x300m (100m jog)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 13, "RECOVERY"],
+				[15, 21, "RECOVERY"],
+				[23, 25, "REPETITION"],
+				[25, 29, "EFFORT"],
+				[30, 40, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x2' (1')",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 9, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 2 minutes (1)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 13, "EFFORT"],
+				[14, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6 x 2mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 9, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6 x 2 (1)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 5, "EFFORT"],
+				[6, 9, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Shaved legs = shaved seconds 3 x 3 (90), 4 x 1 (60)",
+		{
+			"entities": [
+				[29, 32, "REPETITION"],
+				[33, 34, "EFFORT"],
+				[35, 39, "RECOVERY"],
+				[41, 44, "REPETITION"],
+				[45, 46, "EFFORT"],
+				[47, 51, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x3' (90\") 4x1' (60\")",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 10, "RECOVERY"],
+				[11, 13, "REPETITION"],
+				[13, 15, "EFFORT"],
+				[16, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10' , (6') , 6 x 3' (90\")",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[6, 10, "RECOVERY"],
+				[13, 16, "REPETITION"],
+				[17, 19, "EFFORT"],
+				[20, 25, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10’ Tempo 6 x 3’ (90’)",
+		{
+			"entities": [
+				[0, 9, "EFFORT"],
+				[10, 13, "REPETITION"],
+				[14, 16, "EFFORT"],
+				[17, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 mins tempo // 6x3mins",
+		{
+			"entities": [
+				[0, 13, "EFFORT"],
+				[17, 19, "REPETITION"],
+				[19, 24, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10' threshold (6' jog), 5 x 3' off 90\" jog/walk",
+		{
+			"entities": [
+				[0, 13, "EFFORT"],
+				[14, 22, "RECOVERY"],
+				[24, 27, "REPETITION"],
+				[28, 30, "EFFORT"],
+				[31, 47, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 3 (90) 4 x 1 (1)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 5, "EFFORT"],
+				[6, 10, "RECOVERY"],
+				[11, 14, "REPETITION"],
+				[15, 16, "EFFORT"],
+				[17, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x3’(90”) 4x1’ (1’)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[4, 9, "RECOVERY"],
+				[10, 12, "REPETITION"],
+				[12, 14, "EFFORT"],
+				[15, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4 x 3 (90’) 4 x 1 (60’)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 5, "EFFORT"],
+				[6, 11, "RECOVERY"],
+				[12, 15, "REPETITION"],
+				[16, 17, "EFFORT"],
+				[18, 23, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10' (6') 8x3' (90\")",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[4, 8, "RECOVERY"],
+				[9, 11, "REPETITION"],
+				[11, 13, "EFFORT"],
+				[14, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10' tempo (6min), 6x3min (90s)",
+		{
+			"entities": [
+				[0, 9, "EFFORT"],
+				[10, 16, "RECOVERY"],
+				[18, 20, "REPETITION"],
+				[20, 24, "EFFORT"],
+				[25, 30, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"🇵🇹 Road/Grass Session: 10' Tempo // 6x3' (90\" Jog)",
+		{
+			"entities": [
+				[25, 34, "EFFORT"],
+				[38, 40, "REPETITION"],
+				[40, 42, "EFFORT"],
+				[43, 52, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"Session - 10 min tempo [6 mins] 8x3 mins [90s]",
+		{
+			"entities": [
+				[10, 22, "EFFORT"],
+				[23, 31, "RECOVERY"],
+				[32, 34, "REPETITION"],
+				[34, 40, "EFFORT"],
+				[41, 46, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10m tempo (5m30s), 5 x 3m (90s), 2m",
+		{
+			"entities": [
+				[0, 9, "EFFORT"],
+				[10, 17, "RECOVERY"],
+				[19, 22, "REPETITION"],
+				[23, 25, "EFFORT"],
+				[26, 31, "RECOVERY"],
+				[33, 35, "EFFORT"]
+			]
+		}
+	],
+	[
+		"8x3 min off 90",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 7, "EFFORT"],
+				[8, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"32 is my new lucky number 2 x 200m (200 jog) WU in 32s, 5 x 250m every 5 mins all in 32s. + can't forget the last 200m on Saturday 😭",
+		{
+			"entities": [
+				[26, 29, "REPETITION"],
+				[30, 34, "EFFORT"],
+				[35, 44, "RECOVERY"],
+				[56, 59, "REPETITION"],
+				[60, 64, "EFFORT"],
+				[65, 77, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2 x 200 WU, 10 x 300 every 2.5 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[4, 7, "EFFORT"],
+				[12, 16, "REPETITION"],
+				[17, 20, "EFFORT"],
+				[21, 35, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x300m, every 2:30min",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[9, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"7*400, 200",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[7, 10, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10x300m every 90 secs",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 21, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8x500 (90s)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 11, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x150 (250jog)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[7, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2k, 2x800m, 1x600m, 2x300m all of 90sec",
+		{
+			"entities": [
+				[0, 2, "EFFORT"],
+				[4, 6, "REPETITION"],
+				[6, 10, "EFFORT"],
+				[12, 14, "REPETITION"],
+				[14, 18, "EFFORT"],
+				[20, 22, "REPETITION"],
+				[22, 26, "EFFORT"],
+				[31, 39, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"9x300m every 4 mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x1k off 3mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 5, "EFFORT"],
+				[6, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x60m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"]
+			]
+		}
+	],
+	[
+		"5x600m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"]
+			]
+		}
+	],
+	[
+		"10x100m every 2 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x200 (200jog)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"7x1k (5 mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[5, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x900 + 2x400 (off 2 mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 13, "EFFORT"],
+				[14, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8x300m + 2x200m ",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[9, 11, "REPETITION"],
+				[11, 16, "EFFORT"]
+			]
+		}
+	],
+	[
+		"20x400m (60s)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 13, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12x500m (every 1.5mins)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 23, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"6x250 off 3 mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[6, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"9x700 with a 3min rest",
+		{
+			"entities": [
+				[0, 2, "RECOVERY"],
+				[2, 5, "EFFORT"],
+				[13, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"2x600m off 10mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x400m every 5mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x400m off 10 mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"14x600m every min",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"32x100m off 60ish",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8x100m walk back",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x200m every 5",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x(3x300m) (1) (4)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 5, "REPETITION"],
+				[5, 9, "EFFORT"],
+				[11, 14, "RECOVERY"],
+				[15, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x500m every 4",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"100x5",
+		{
+			"entities": [
+				[0, 3, "EFFORT"],
+				[3, 5, "REPETITION"]
+			]
+		}
+	],
+	[
+		"2x800, 3x400, 12x200",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 5, "EFFORT"],
+				[7, 9, "REPETITION"],
+				[9, 12, "EFFORT"],
+				[14, 17, "REPETITION"],
+				[17, 20, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3x400m, 2x400m, 1x400m faster each time",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 14, "EFFORT"],
+				[16, 18, "REPETITION"],
+				[18, 22, "EFFORT"]
+			]
+		}
+	],
+	[
+		"9x400m, 2x300m",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 14, "EFFORT"]
+			]
+		}
+	],
+	[
+		"3, 2, 1 + 8xb2b",
+		{
+			"entities": [
+				[0, 1, "EFFORT"],
+				[3, 4, "EFFORT"],
+				[6, 7, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 15, "EFFORT"]
+			]
+		}
+	],
+	[
+		"6x300m every 3 mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10 tempo, 5x800m off 90sec",
+		{
+			"entities": [
+				[0, 8, "EFFORT"],
+				[10, 12, "REPETITION"],
+				[12, 16, "EFFORT"],
+				[17, 26, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"12x400m every 2mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 19, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x600m, 5x200m (2) (5 between sets)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[8, 10, "REPETITION"],
+				[10, 14, "EFFORT"],
+				[15, 18, "RECOVERY"],
+				[19, 35, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x(100, 80, 60) (walk back)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[3, 6, "EFFORT"],
+				[8, 10, "EFFORT"],
+				[12, 14, "EFFORT"],
+				[16, 27, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10xhills every 10s",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 8, "EFFORT"],
+				[9, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x500m every 6 mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 20, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"3x600m (4mins) + 3x300m (3mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 14, "RECOVERY"],
+				[17, 19, "REPETITION"],
+				[19, 23, "EFFORT"],
+				[24, 31, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x2k every min",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 14, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x800m off 2mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"5x250m every 4mins",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 18, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20x200m off 2mins",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 17, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"4x3x200m (30s) (3mins)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "REPETITION"],
+				[4, 8, "EFFORT"],
+				[9, 14, "RECOVERY"],
+				[15, 22, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8xthorpe hill",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 13, "EFFORT"]
+			]
+		}
+	],
+	[
+		"11x700m every 2",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"8x340m (160jog)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 6, "EFFORT"],
+				[7, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"10x400m every 2",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 15, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"9x60 (walk back)",
+		{
+			"entities": [
+				[0, 2, "REPETITION"],
+				[2, 4, "EFFORT"],
+				[5, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"13x450m (3 mins)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 7, "EFFORT"],
+				[8, 16, "RECOVERY"]
+			]
+		}
+	],
+	[
+		"20xshuttle (2 mins)",
+		{
+			"entities": [
+				[0, 3, "REPETITION"],
+				[3, 10, "EFFORT"],
+				[11, 19, "RECOVERY"]
+			]
+		}
+	]
+]
