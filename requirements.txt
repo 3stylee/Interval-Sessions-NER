@@ -90,12 +90,6 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
 stack-data==0.6.1
-tensorboard==2.16
-tensorboard-data-server==0.7.2
-tensorflow==2.16.1
-tensorflow-decision-forests==1.8.1
-tensorflow-estimator==2.15.0
-tensorstore==0.1.45
 termcolor==2.4.0
 tf-keras==2.15.0
 tqdm==4.65.0
