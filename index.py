@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import spacy
 from collections import defaultdict
-import predictData
+from predictData import predictData
 
 # Load your trained spaCy model
 nlp = spacy.load('spacy_model_sm')

@@ -1,4 +1,4 @@
-import processData
+from processData import processData
 import tensorflow as tf
 import numpy as np
 
