@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import spacy
 from collections import defaultdict
-from predictData import predictData
 
 # Load your trained spaCy model
 nlp = spacy.load('spacy_model_sm')
@@ -44,15 +43,6 @@ def extract_entities():
 
     # Convert groups to list of lists for JSON serialization
     results = [sessions for sessions in groups.values()]
-
-    return jsonify(results)
-
-@app.route('/predict_type', methods=['POST'])
-def predict_type():
-    data = request.get_json()
-    activities = data['activities']
-
-    results = predictData(activities)
 
     return jsonify(results)
 
