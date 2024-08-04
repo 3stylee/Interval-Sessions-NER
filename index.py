@@ -33,7 +33,7 @@ def create_key(doc, groups, session):
 @app.route('/extract_entities', methods=['POST'])
 def extract_entities():
     data = request.get_json()
-    sessions = data['sessions']
+    sessions = data['sessions'].reverse()
     
     groups = defaultdict(list)
 
