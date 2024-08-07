@@ -43,7 +43,7 @@ def extract_entities():
         groups[key].append(session['id'])
 
     # Convert groups to list of lists for JSON serialization
-    results = {str(key): sessions for key, sessions in groups.items()}
+    results = {str(key): sessions for key, sessions in groups.values()}
 
     return jsonify(results)
 
