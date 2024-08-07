@@ -12,7 +12,7 @@ CORS(app)
 NAMED_ENTITIES = ['EFFORT', 'REPETITION']
 NON_EFFORTS = ['tempo', 't', 'wu', 'strides', 'primer']
 
-def create_key(doc, groups, session):
+def create_key(doc):
     entities = [(ent.label_, ent.text.rstrip('m')) for ent in doc.ents if ent.label_ in NAMED_ENTITIES and not any(substring in ent.text.lower() for substring in NON_EFFORTS)]
     efforts = [ent for ent in entities if ent[0] == 'EFFORT']
     reps = [ent for ent in entities if ent[0] == 'REPETITION']
@@ -28,7 +28,7 @@ def create_key(doc, groups, session):
     else:
         key = tuple(entities)
 
-    groups[key].append(session['id'])
+    return key
 
 @app.route('/extract_entities', methods=['POST'])
 def extract_entities():
@@ -39,12 +39,20 @@ def extract_entities():
 
     for session in sessions:
         doc = nlp(session['title'])
-        create_key(doc, groups, session)
+        key = create_key(doc)
+        groups[key].append(session['id'])
 
     # Convert groups to list of lists for JSON serialization
-    results = [sessions for sessions in groups.values()]
+    results = {key: sessions for key, sessions in groups.items()}
 
     return jsonify(results)
+
+@app.route('/get_key', methods=['POST'])
+def get_key():
+    data = request.get_json()
+    session = data['session']
+    doc = nlp(session['title'])
+    return jsonify(create_key(doc))
 
 if __name__ == '__main__':
     app.run()
