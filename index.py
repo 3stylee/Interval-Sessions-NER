@@ -43,7 +43,7 @@ def extract_entities():
         groups[key].append(session['id'])
 
     # Convert groups to list of lists for JSON serialization
-    results = {key: sessions for key, sessions in groups.items()}
+    results = {str(key): sessions for key, sessions in groups.items()}
 
     return jsonify(results)
 
@@ -52,7 +52,7 @@ def get_key():
     data = request.get_json()
     session = data['session']
     doc = nlp(session['title'])
-    return jsonify(create_key(doc))
+    return jsonify(str(create_key(doc)))
 
 if __name__ == '__main__':
     app.run()
