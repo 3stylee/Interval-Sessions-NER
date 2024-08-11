@@ -8,6 +8,7 @@ from getFirebaseKey import getFirebaseKey
 
 # Initialize Firebase
 key = getFirebaseKey()
+print (key)
 cred = credentials.Certificate(key)
 initialize_app(cred)
 db = firestore.client()
