@@ -1,5 +1,5 @@
 import time
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 import spacy
 from collections import defaultdict
@@ -7,7 +7,8 @@ from firebase_admin import credentials, firestore, initialize_app
 from getFirebaseKey import getFirebaseKey
 
 # Initialize Firebase
-cred = credentials.Certificate(getFirebaseKey())
+key = getFirebaseKey()
+cred = credentials.Certificate(key)
 initialize_app(cred)
 db = firestore.client()
 
@@ -58,11 +59,11 @@ def create_key(doc):
     return key
 
 @app.route('/extract_entities', methods=['POST'])
-def extract_entities(req):
-    if not validateToken():
+def extract_entities():
+    if not validateToken(request):
         return jsonify({'error': 'Invalid authorisation token'}), 401
 
-    data = req.get_json()
+    data = request.get_json()
     sessions = data['sessions']
     
     groups = defaultdict(list)
@@ -77,11 +78,11 @@ def extract_entities(req):
     return jsonify(results)
 
 @app.route('/get_key', methods=['POST'])
-def get_key(req):
-    if not validateToken():
+def get_key():
+    if not validateToken(request):
         return jsonify({'error': 'Invalid authorisation token'}), 401
 
-    data = req.get_json()
+    data = request.get_json()
     session = data['session']
     doc = nlp(session['title'])
     return jsonify(str(create_key(doc)))
