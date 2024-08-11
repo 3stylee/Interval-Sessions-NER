@@ -1,9 +1,17 @@
+import time
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import spacy
 from collections import defaultdict
+from firebase_admin import credentials, firestore, initialize_app
+from getFirebaseKey import getFirebaseKey
 
-# Load your trained spaCy model
+# Initialize Firebase
+cred = credentials.Certificate(getFirebaseKey())
+initialize_app(cred)
+db = firestore.client()
+
+# Load spaCy model
 nlp = spacy.load('spacy_model_sm')
 
 app = Flask(__name__)
@@ -11,6 +19,25 @@ CORS(app)
 
 NAMED_ENTITIES = ['EFFORT', 'REPETITION']
 NON_EFFORTS = ['tempo', 't', 'wu', 'strides', 'primer']
+
+def getToken(req):
+    id = req.headers.get('id')
+    token = req.headers.get('Authorization')
+    if token.startswith('Bearer '):
+        token = token[7:]
+    else:
+        return None, None
+    return id, token
+
+def validateToken(req):
+    id, token = getToken(req)
+    doc_ref = db.collection(u'users').document(id)
+    doc = doc_ref.get()
+    if doc.exists:
+        data = doc.to_dict()
+        if data['access_token'] == token and data['expires_at'] > int(time.time()):
+            return True
+    return False
 
 def create_key(doc):
     entities = [(ent.label_, ent.text.rstrip('m')) for ent in doc.ents if ent.label_ in NAMED_ENTITIES and not any(substring in ent.text.lower() for substring in NON_EFFORTS)]
@@ -31,12 +58,14 @@ def create_key(doc):
     return key
 
 @app.route('/extract_entities', methods=['POST'])
-def extract_entities():
-    data = request.get_json()
+def extract_entities(req):
+    if not validateToken():
+        return jsonify({'error': 'Invalid authorisation token'}), 401
+
+    data = req.get_json()
     sessions = data['sessions']
     
     groups = defaultdict(list)
-
     for session in sessions:
         doc = nlp(session['title'])
         key = create_key(doc)
@@ -48,8 +77,11 @@ def extract_entities():
     return jsonify(results)
 
 @app.route('/get_key', methods=['POST'])
-def get_key():
-    data = request.get_json()
+def get_key(req):
+    if not validateToken():
+        return jsonify({'error': 'Invalid authorisation token'}), 401
+
+    data = req.get_json()
     session = data['session']
     doc = nlp(session['title'])
     return jsonify(str(create_key(doc)))
